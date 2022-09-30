@@ -1,0 +1,4 @@
+ 1-
+ we have to set the ownership of /var/www/moodledata as www-data:www-data 
+ # chown www-data:www-data -R /var/www/moodledata/
+ 
